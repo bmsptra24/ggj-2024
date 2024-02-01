@@ -1,0 +1,35 @@
+﻿{
+	"name": "New project",
+	"version": "1.0.0.0",
+	"description": "",
+	"id": "",
+	"viewport-width": 854,
+	"viewport-height": 480,
+	"author": "",
+	"email": "",
+	"website": "",
+	"orientations": "landscape",
+	"c2version": "280",
+	"ife": false,
+	"used-plugins": [
+		"Arr",
+		"Audio",
+		"Keyboard",
+		"Mouse",
+		"Sprite",
+		"TiledBg",
+		"Tilemap"
+	],
+	"used-behaviors": [
+		"Bullet",
+		"Car",
+		"Fade",
+		"Flash",
+		"Pin",
+		"Platform",
+		"Sin",
+		"bound",
+		"scrollto",
+		"solid"
+	]
+}
